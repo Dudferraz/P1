@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projecto1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projecto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projecto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="constantes.h" />
+		<Unit filename="estruturas.h" />
+		<Unit filename="funcoesAvarias.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoesAvarias.h" />
+		<Unit filename="funcoesLeitura.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoesLeitura.h" />
+		<Unit filename="funcoesPortateis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoesPortateis.h" />
+		<Unit filename="funcoesRequisicoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoesRequisicoes.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

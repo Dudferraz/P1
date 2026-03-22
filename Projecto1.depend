@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1672251498 source:c:\users\dudfe\desktop\projecto1\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+
+1672144477 c:\users\dudfe\desktop\projecto1\funcoesportateis.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1672196727 c:\users\dudfe\desktop\projecto1\constantes.h
+
+1672178034 c:\users\dudfe\desktop\projecto1\funcoesrequisicoes.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1672147528 c:\users\dudfe\desktop\projecto1\funcoesleitura.h
+	"constantes.h"
+	"estruturas.h"
+
+1672234409 source:c:\users\dudfe\desktop\projecto1\funcoesrequisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesRequisicoes.h"
+	"funcoesPortateis.h"
+
+1672251498 source:c:\users\dudfe\desktop\projecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+
+1672251498 source:c:\users\dudfe\desktop\projecto1\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1672163620 c:\users\dudfe\desktop\projecto1\estruturas.h
+
+1672259180 source:c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1672147528 c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesleitura.h
+	"constantes.h"
+	"estruturas.h"
+
+1672675244 c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\constantes.h
+
+1672163620 c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\estruturas.h
+
+1672684082 source:c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+
+1672683100 c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesportateis.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1672277846 c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesrequisicoes.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1672685021 source:c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\funcoesrequisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesRequisicoes.h"
+	"funcoesPortateis.h"
+
+1672685216 source:c:\users\dudfe\desktop\projecto-duarteferraz-pedrosilva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+
+1673554474 source:c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesavarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
+1673275504 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesportateis.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673052238 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\constantes.h
+
+1673274615 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\estruturas.h
+
+1673088230 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesleitura.h
+	"constantes.h"
+	"estruturas.h"
+
+1673050819 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesrequisicoes.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673276081 c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesavarias.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673285853 source:c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1673546081 source:c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
+1673554194 source:c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\funcoesrequisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesRequisicoes.h"
+	"funcoesPortateis.h"
+	"funcoesAvarias.h"
+
+1673552520 source:c:\users\dudfe\desktop\projeto-duarteferraz-pedrosilva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
+1673558076 source:c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesavarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
+1673279106 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesportateis.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673055840 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\constantes.h
+
+1673278216 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\estruturas.h
+
+1673091832 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesleitura.h
+	"constantes.h"
+	"estruturas.h"
+
+1673054420 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesrequisicoes.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673279682 c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesavarias.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoesLeitura.h"
+
+1673289454 source:c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1673549682 source:c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesportateis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
+1673557796 source:c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\funcoesrequisicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesRequisicoes.h"
+	"funcoesPortateis.h"
+	"funcoesAvarias.h"
+
+1673556122 source:c:\ipl\1ano1s\prog\projeto\projeto-duarteferraz-pedrosilva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoesPortateis.h"
+	"funcoesRequisicoes.h"
+	"funcoesAvarias.h"
+
